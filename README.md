@@ -1,16 +1,27 @@
-## Hi there 👋
+# ✦ Greetings, Traveler
 
-<!--
-**kushagra-arya/kushagra-arya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am **Kushagra** — a student of **Data Science** (IIT Madras), forged first in the halls of **Commerce (B.Com)** and now apprenticed to the disciplines of **Machine Learning, AI, and Analytics**.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ✦ Pursuits
+- Discerning patterns in data  
+- Building foundations in Machine Learning  
+- Blending commerce with computation  
+- Preparing for ventures in AI and innovation  
+
+---
+
+## ✦ Instruments
+- **Languages**: Python, SQL  
+- **Libraries**: Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn  
+- **Domains**: Data Analysis, Data Science, Business Analytics, Machine Learning  
+
+---
+
+## ✦ Correspondence
+📫 kushagraarya1801@gmail.com  
+
+---
+
+*“Data is the parchment; algorithms, the ink. With them, the future is writ.”*
